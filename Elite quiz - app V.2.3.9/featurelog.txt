@@ -1,0 +1,5 @@
+Elite Quiz App v2.3.9
+
+- Added : Data backup option in the admin panel 
+
+Note: This update requires Flutter 3.38.1 or newer.

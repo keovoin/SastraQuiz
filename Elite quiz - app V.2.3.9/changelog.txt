@@ -1,0 +1,9 @@
+M - Modified
+
+
+M       android/app/build.gradle
+M       ios/Runner.xcodeproj/project.pbxproj
+M       lib/core/config/config.dart
+M       lib/features/system_config/cubits/system_config_cubit.dart
+M       lib/main.dart
+M       pubspec.lock

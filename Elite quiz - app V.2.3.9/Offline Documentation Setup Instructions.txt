@@ -1,0 +1,29 @@
+NOTE: new doc is still in work in progress, so it might not have proper explanations and steps.
+So if you dont see proper info in the new doc, then refer to the old doc.
+
+
+Getting Started
+
+1. Install Node.js
+   Download and install Node.js from the official website: https://nodejs.org/
+   Note: Make sure you're using Node.js version 20 or higher.
+
+2. Open the Project in a Code Editor
+   Open the project folder using a code editor such as Visual Studio Code.
+
+3. Verify Node.js Installation
+   Open your terminal and run the following command to confirm Node.js is installed:
+   node -v
+   You should see a version number >= 20.x.x.
+
+4. Install Dependencies
+   In the terminal, navigate to the project root and run:
+   npm i
+
+5. Start the Development Server
+   Once the installation is complete, run the following command:
+   npm run start
+
+6. View in Browser
+   After the server starts, it will automatically open a localhost link in your default browser.
+   If it doesn't, open the link shown in the terminal (usually http://localhost:3000) manually.
